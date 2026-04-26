@@ -1,0 +1,12 @@
+gradio==3.50.2
+torch
+torchvision
+transformers
+openai-whisper
+PyPDF2
+Pillow
+pandas
+numpy
+matplotlib
+pyaudioop
+ffmpeg-python
