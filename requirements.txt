@@ -1,0 +1,10 @@
+gradio==4.44.0
+torch
+torchvision
+transformers
+openai-whisper
+PyPDF2
+Pillow
+pandas
+numpy
+matplotlib
